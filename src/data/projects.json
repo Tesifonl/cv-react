@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Proyecto Modulo Grado Superior en Desarrollo de Aplicaciones Web",
+    "description": "Actualmente desarrollando el proyecto de aplicación web como trabajo de homologación  del proyecto final, en el marco del Grado Superio en Desarrollo de Aplicaciones Web, aplicando conocimientos de progracion, bases de datos y desarrollo web",
+    "link": "https://github.com/TU_USUARIO/cv-react",
+    "tags": ["Php", "JavaScript", "Mysql"]
+  },
+  {
+    "title": "Curriculum Vitae",
+    "description": "Aplicación desarrollada con React y React Bootstrap para crear un currículum web con navegación entre páginas y componentes reutilizables.",
+    "link": "https://github.com/TU_USUARIO/tabla-dinamica",
+    "tags": ["JavaScript", "DOM", "localStorage"]
+  },
+  {
+    "title": "Reserva de viajes",
+    "description": "Interfaz de reserva de viajes desarrollada con HTML, CSS y JavaScript, con formularios y validación de datos.",
+    "link": "https://github.com/TU_USUARIO/reserva-viajes",
+    "tags": ["HTML", "CSS", "JavaScript"]
+  }
+]

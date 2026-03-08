@@ -1,0 +1,72 @@
+{
+  "education": [
+    {
+      "role": "Modulo de Grado Superior en Desarrollo de Aplicaciones Web ",
+      "place": "IES Al-andalus. Almeria",
+      "dates": "2026- Actualizada",
+      "details": "Desarrollo de aplicaciones web."
+    },
+    {
+      "role": "European Fiancial Planner",
+      "place": "Efpa España",
+      "dates": "2015",
+      "details": "Gestión de productos y servicios bancarios."
+    },
+    {
+      "role": "Ingles nivel B1",
+      "place": "Certificación Cambridge",
+      "dates": "2012",
+      "details": "Nivel intermedio de comprension y comunicación oral y escrita."
+    },
+    {
+      "role": "Master en Gestion Bancaria",
+      "place": "Universidad de Almería",
+      "dates": "2007",
+      "details": "Funcionamiento del sistema financiero, analisis de riesgos y toma de decisiones."
+    },
+    {
+      "role": "Licenciatura en Administración y Dirección de Empresas (LADE)",
+      "place": "Universidad de Almería",
+      "dates": "2005",
+      "details": "Formación en toma de decisiones estratégicas en áreas como finanzas , marketing, recurso humanos y operaciones."
+    }
+  ],
+  "experience": [
+    {
+      "role": "BCC Operaciones y servicios administrativos",
+      "place": "Almeria",
+      "dates": "2017-Actulidad",
+      "details": "Coordinador departamento de Pasivo y Mercados Financieros."
+    },
+    {
+      "role": "Banco de Credito Cooperativo",
+      "place": "Almeria",
+      "dates": "2014-2017",
+      "details": "Coordinador departamento de Pasivo y Mercados Financieros."
+    },
+    {
+      "role": "Cajamar Caja Rural de Credito Cooperativo",
+      "place": "Almeria",
+      "dates": "2007-2014",
+      "details": "Tecnico en el departamento de contabilidad."
+    },
+    {
+      "role": "Caja Murcia",
+      "place": "Almeria",
+      "dates": "2006-2006",
+      "details": "Practicas en empresa dentro del programa universitario de empleo Icaro ."
+    },
+    {
+      "role": "Camara de comercio e industria de Galati",
+      "place": "Galati. Rumania",
+      "dates": "2005-2005",
+      "details": "Practicas en empresa dentro del programa europeo de formacion Leornardo Da Vinci ."
+    },
+    {
+      "role": "Materiales y sistemas de riego San Isidro",
+      "place": "San Isidro. Almeria",
+      "dates": "2003-2004",
+      "details": "Tareas administrativas en el departamento de contabilidad."
+    }
+  ]
+}
